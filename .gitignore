@@ -1,0 +1,3 @@
+# .gitignore for .NET projects
+[Bb]in/
+[Oo]bj/
